@@ -50,7 +50,7 @@ model = build_model(features)
 ```
 
 ## Support
-For help, open an issue in the GitHub repository or reach out to [your-email@example.com].
+For help, open an issue in the GitHub repository or reach out to wiraldysimanjuntak@gmail.com.
 
 ## Roadmap
 - **Version 1.0**: Initial feature creation and data preprocessing.
@@ -61,10 +61,8 @@ For help, open an issue in the GitHub repository or reach out to [your-email@exa
 Contributions are welcome! Please fork this repository, create a new branch for your changes, and submit a pull request. Ensure your changes are well-documented and include tests if applicable.
 
 ## Authors and Acknowledgment
-This project is developed by [Your Name]. Special thanks to all contributors and open-source libraries used throughout this project.
+This project is developed by Wiraldy Manggala Simanjuntak. Special thanks to all contributors and open-source libraries used throughout this project.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Project Status
 Currently under active development. New features are being added in upcoming versions.
